@@ -33,6 +33,20 @@ setup melpa package manager
 C-x C-e
 ```
 
+install 
+```
+M-x list-package
+
+volatile-highlights
+undo-tree
+yasnippet
+ggtags
+```
+
+```
+git clone https://github.com/tuhdo/emacs-c-ide-demo.git ~/.emacs.d
+```
+
 https://tuhdo.github.io/emacs-tutor3.html#orgheadline16
 http://apt.llvm.org/
 https://vxlabs.com/2016/04/11/step-by-step-guide-to-c-navigation-and-completion-with-emacs-and-the-clang-based-rtags/
